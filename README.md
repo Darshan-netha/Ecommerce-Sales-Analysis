@@ -25,8 +25,8 @@ By combining numerical analysis with visualizations, the project demonstrates ho
 
 ## Dataset Used
 This dataset contains e-commerce sales information used for data analysis and visualization.
--Product – Name of the product sold
--Price – Price of a single unit
--Customer_ID – Unique identifier for each customer
--Region – Sales region
--Total_Sales – Total sales amount for each transaction
+- Product – Name of the product sold
+- Price – Price of a single unit
+- Customer_ID – Unique identifier for each customer
+- Region – Sales region
+- Total_Sales – Total sales amount for each transaction
